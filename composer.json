@@ -1,0 +1,24 @@
+{
+    "name": "anti-matter-studios/array-parser",
+    "description": "A simple tool used ",
+    "minimum-stability": "stable",
+    "version": "1.0.0",
+    "license": "MIT",
+    "homepage": "https://docs.akane.shimoka.dev/php/anti-matter-studios/array-parser",
+    "readme": "README.md",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Akane SHIMOKA",
+            "email": "akane@shimoka.dev"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "AntiMatter_Studios\\ArrayParser\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=8.3"
+    }
+}
